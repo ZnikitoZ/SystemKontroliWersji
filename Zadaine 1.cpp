@@ -13,7 +13,7 @@ if(m<=0 || n<=0)
 	if(n>m)
 	cout<<"Nie mo¿esz wpisaæ liczbe n wiêkszej od m"<<endl;	
 a=1;
-	while(m>n*a){укцукцук
+	while(m>n*a){
 		
 		cout<<n*a<<endl;
 		a++; 
