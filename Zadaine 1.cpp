@@ -10,7 +10,9 @@ int n, m, a;
 		cin>>n;
 if(m<=0 || n<=0)
 	cout<<"Nie mo¿esz wpisaæ liczbe ujemn¹"	<<endl;	
+cout<<"Nie mo¿esz wpisaæ liczbe ujemn¹"	<<endl;	
 	if(n>m)
+	cout<<"Nie mo¿esz wpisaæ liczbe n wiêkszej od m"<<endl;	
 	cout<<"Nie mo¿esz wpisaæ liczbe n wiêkszej od m"<<endl;	
 a=1;
 	while(m>n*a){
