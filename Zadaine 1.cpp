@@ -7,6 +7,8 @@ int n, m, a;
 	cout<<"wpisz liczbe m"<< endl;
 		cin>>m;
 	cout<<"wpmisz liczbe n"<< endl;
+	cout<<"Nie mo¿esz wpisaæ liczbe n wiêkszej od m"<<endl;	
+	cout<<"Nie mo¿esz wpisaæ liczbe n wiêkszej od m"<<endl;	
 		cin>>n;
 if(m<=0 || n<=0)
 	cout<<"Nie mo¿esz wpisaæ liczbe ujemn¹"	<<endl;	
